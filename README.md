@@ -20,6 +20,12 @@ A terminal dashboard is a text-based user interface (TUI) that runs in a termina
 
 #
 
+![Fa](https://github.com/user-attachments/assets/a8430784-0760-4a46-9db8-b0ce3b0c9a60)
+
+[Terminal Simulator](https://chatgpt.com/g/g-9MywumX92-terminal-simulator) replicates the behavior and responses of various command-line interfaces (CLIs), including those for Windows PowerShell, Linux Bash, and macOS Terminal. It helps users learn and practice terminal commands by simulating realistic outputs, providing explanations of what each command does, and guiding users through the syntax of more complex commands. The simulator highlights cross-platform differences, helping users understand variations in command usage between different operating systems. It also supports error handling by simulating common issues that might arise when executing commands and offering troubleshooting suggestions. While the Terminal Simulator cannot execute real commands, it offers educational support by providing detailed, safe, and interactive experiences that empower users to improve their command-line skills. The tool is ideal for both beginners who want to explore the basics of terminal usage and intermediate users looking to refine their command knowledge.
+
+#
+
 [3D Printer CLI](https://chatgpt.com/g/g-682ab4ce238881919f9b3671e6659824-3d-printer-cli)
 <br>
 [Programming](https://github.com/sourceduty/Programming)
@@ -31,7 +37,5 @@ A terminal dashboard is a text-based user interface (TUI) that runs in a termina
 [Linux Simulator](https://chatgpt.com/g/g-i4BbAiInr-linux-simulator)
 <br>
 [Arch Linux Simulator](https://chatgpt.com/g/g-SYkRXlw3j-arch-linux-simulator)
-<br>
-[Terminal Simulator](https://chatgpt.com/g/g-9MywumX92-terminal-simulator)
 <br>
 [Vintage Prompt](https://chatgpt.com/g/g-mg39xadeq-vintage-prompt)
