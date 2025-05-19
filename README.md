@@ -14,6 +14,12 @@ A terminal dashboard is a text-based user interface (TUI) that runs in a termina
 
 #
 
+![Server Prompt](https://github.com/user-attachments/assets/1e7bfd88-7b56-4e9f-af9b-5dec0e403269)
+
+[Server Prompt](https://chatgpt.com/g/g-682aeaebbe8c8191bf0a77f11104116f-server-prompt) is a realistic terminal-style environment that can be used to interact with server management tools, emulate command-line utilities, and create or assist in developing server-side applications. This GPT can simulate common Linux/Unix server behaviors, including file system navigation, user management, process control, network configuration, and scripting tasks. It can generate clean, modular code (mainly in Python, Bash, or C) to replicate terminal commands and responses, providing users with an authentic experience of managing and interacting with a server environment. Additionally, Server Prompt can offer detailed solutions, assist with debugging, and extend or modify existing code. By providing mock data or logs, it allows users to test functionalities in a controlled, terminal-like simulation, enhancing the development, testing, and educational experience. Essentially, Server Prompt is a powerful tool for anyone needing to simulate or develop command-line utilities and server applications.
+
+#
+
 [3D Printer CLI](https://chatgpt.com/g/g-682ab4ce238881919f9b3671e6659824-3d-printer-cli)
 <br>
 [Programming](https://github.com/sourceduty/Programming)
