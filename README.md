@@ -39,3 +39,5 @@ A terminal dashboard is a text-based user interface (TUI) that runs in a termina
 [Arch Linux Simulator](https://chatgpt.com/g/g-SYkRXlw3j-arch-linux-simulator)
 <br>
 [Vintage Prompt](https://chatgpt.com/g/g-mg39xadeq-vintage-prompt)
+<br>
+[AI Terminal](https://chatgpt.com/g/g-682ae345cb0c8191944ce840e3cfa63e-ai-terminal)
