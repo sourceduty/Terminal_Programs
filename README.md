@@ -38,6 +38,12 @@ A terminal dashboard is a text-based user interface (TUI) that runs in a termina
 
 #
 
+![FBI Terminal](https://github.com/user-attachments/assets/d4e81a93-8166-4dcd-af15-fa53f6cb165c)
+
+[FBI Terminal](https://chatgpt.com/g/g-682bc9381e508191bd704e262fe0ed8b-fbi-terminal) FBI Terminal, is a high-fidelity simulation tool designed to emulate the command-line interface of a secure federal intelligence system, enabling users to interact with a fictional but hyper-realistic environment for investigative storytelling, digital forensics, and covert operations management. It interprets user input as stylized terminal commands or natural language inquiries wrapped in operational brevity, then returns immersive results such as classified dossiers, intercepted communications, psychological profiles, decrypted payloads, surveillance summaries, and timeline analyses. Drawing on the structure and tone of inter-agency intelligence work, it supports complex roleplay scenarios and world-building tasks across law enforcement, cyber-ops, and intelligence domains. Whether the user is investigating a suspect, tracing encrypted data, or compiling an operation report, the GPT responds with detailed, formatted output as though it were part of a live FBI data terminal—complete with timestamped logs, code artifacts, and security classifications—making it ideal for writers, developers, or creators designing ARGs, thrillers, or espionage narratives.
+
+#
+
 [3D Printer CLI](https://chatgpt.com/g/g-682ab4ce238881919f9b3671e6659824-3d-printer-cli)
 <br>
 [Programming](https://github.com/sourceduty/Programming)
