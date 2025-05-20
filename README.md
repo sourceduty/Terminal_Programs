@@ -61,3 +61,5 @@ A terminal dashboard is a text-based user interface (TUI) that runs in a termina
 [Vintage Prompt](https://chatgpt.com/g/g-mg39xadeq-vintage-prompt)
 <br>
 [AI Terminal](https://chatgpt.com/g/g-682ae345cb0c8191944ce840e3cfa63e-ai-terminal)
+<br>
+[Text Entry Games](https://chatgpt.com/g/g-6828e688a8688191ac6729345214b92f-text-entry-games)
