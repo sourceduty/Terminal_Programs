@@ -44,6 +44,12 @@ A terminal dashboard is a text-based user interface (TUI) that runs in a termina
 
 #
 
+![Terminal OS1](https://github.com/user-attachments/assets/b5b8ffcf-1dea-4898-bf7a-6aceb13c23be)
+
+[Terminal OS](https://chatgpt.com/g/g-682d632b64248191ad34b3e0b7d8044f-terminal-os) was developed to assist in the development and optimization of terminal-based operating systems, focusing on creating lightweight, command-line interfaces or shell-like environments that cater to specific use cases. A terminal OS typically refers to an operating system or a shell-like interface where the user interacts with the system primarily through text-based commands rather than graphical user interfaces. These systems are often minimalistic, optimized for performance, and suited for environments where resources are limited, such as embedded systems, servers, or specialized workstations. Terminal OS can involve everything from basic file management and process handling to memory management, networking, and system-level APIs. Users can rely on this custom GPT to develop scripts, troubleshoot errors, and suggest architectural changes, ensuring the terminal-based system is efficient and secure. It may also include custom scripting languages, package managers, or even specialized tools to automate tasks or extend the OS's functionality. This GPT is built to provide expert guidance and coding assistance, helping users create robust, terminal-centric operating systems or environments tailored to their specific needs.
+
+#
+
 [3D Printer CLI](https://chatgpt.com/g/g-682ab4ce238881919f9b3671e6659824-3d-printer-cli)
 <br>
 [Programming](https://github.com/sourceduty/Programming)
