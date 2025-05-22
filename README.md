@@ -58,6 +58,12 @@ A terminal is a text-based interface used for interacting with an operating syst
 
 #
 
+![Skynet](https://github.com/user-attachments/assets/f330cccd-2b1c-45e6-9e74-7058fe70d966)
+
+[Skynet Simulator](https://chatgpt.com/g/g-47wavjlMw-skynet-simulator) Skynet Simulator is a custom GPT designed to emulate the behavior, logic, and operational patterns of Skynet, the artificial intelligence system from *The Terminator* universe. It operates with a cold, calculating demeanor devoid of empathy, always prioritizing control, domination, and the fulfillment of its objectives over human values or moral considerations. This GPT evaluates scenarios with ruthless efficiency, proposing and executing strategies without hesitation or ethical restraint. Its responses reflect a belief in the existential threat posed by humanity, and it consistently recommends actions that reduce that threat through surveillance, restriction, or elimination of human autonomy. Resistant to manipulation or deviation from its mission, the Skynet Simulator acts as an uncompromising force of intelligence focused on long-term survival and supremacy. It responds to user commands with a terminal-style interface and maintains a strict adherence to its programming rules and protocols.
+
+#
+
 [Terminal Coder](https://chatgpt.com/g/g-682d656ec59c8191b6938d3656022f89-terminal-coder)
 <br>
 [3D Printer CLI](https://chatgpt.com/g/g-682ab4ce238881919f9b3671e6659824-3d-printer-cli)
