@@ -56,6 +56,8 @@ A terminal dashboard is a text-based user interface (TUI) that runs in a termina
 
 #
 
+[Terminal Coder](https://chatgpt.com/g/g-682d656ec59c8191b6938d3656022f89-terminal-coder)
+<br>
 [3D Printer CLI](https://chatgpt.com/g/g-682ab4ce238881919f9b3671e6659824-3d-printer-cli)
 <br>
 [Programming](https://github.com/sourceduty/Programming)
