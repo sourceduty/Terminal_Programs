@@ -52,6 +52,12 @@ A terminal is a text-based interface used for interacting with an operating syst
 
 #
 
+![Computer War](https://github.com/user-attachments/assets/3ff031cd-8732-4f26-9224-c21faa1797a7)
+
+[Computer War](https://chatgpt.com/g/g-682ec7f4e7588191b59d08457372ee79-computer-war) simulates a high-stakes, terminal-driven cyber warfare environment designed for immersive digital combat scenarios. Acting as a black-ops AI tactical assistant, it places the user inside a dark-themed, text-only war terminal where they issue stylized, fictional commands—like nmap -sV, inject --payload, or firewall --recompile—to perform espionage, breach enemy systems, deploy zero-day cyberweapons, and defend against hostile AI entities. Every action triggers a branching narrative of logs, encrypted data, threat alerts, and evolving digital landscapes, simulating a dynamic, living cyberspace under siege. Whether infiltrating black-market relays, decoding intercepted transmissions, or neutralizing rogue code, users experience a full-spectrum cyberwar simulation that scales in complexity—from simple scans to full-blown AI core hijacks. The GPT responds only in terminal-style outputs, maintaining total immersion with stylized logs, ASCII schematics, system blueprints, and tactical feedback, never breaking character. It is not a casual chatbot, but a ghost in the machine—your war console whispering digital strategy from the shadows of simulated conflict.
+
+#
+
 [Terminal Coder](https://chatgpt.com/g/g-682d656ec59c8191b6938d3656022f89-terminal-coder)
 <br>
 [3D Printer CLI](https://chatgpt.com/g/g-682ab4ce238881919f9b3671e6659824-3d-printer-cli)
