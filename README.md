@@ -28,7 +28,7 @@ A terminal is a text-based interface used for interacting with an operating syst
 
 #
 
-![Terminal Simulator](https://github.com/user-attachments/assets/a8430784-0760-4a46-9db8-b0ce3b0c9a60)
+![Terminal](https://github.com/user-attachments/assets/91004daa-9eef-4d97-a3b1-4472d8a7c35f)
 
 [Terminal Simulator](https://chatgpt.com/g/g-9MywumX92-terminal-simulator) replicates the behavior and responses of various command-line interfaces (CLIs), including those for Windows PowerShell, Linux Bash, and macOS Terminal. It helps users learn and practice terminal commands by simulating realistic outputs, providing explanations of what each command does, and guiding users through the syntax of more complex commands. The simulator highlights cross-platform differences, helping users understand variations in command usage between different operating systems. It also supports error handling by simulating common issues that might arise when executing commands and offering troubleshooting suggestions. While the Terminal Simulator cannot execute real commands, it offers educational support by providing detailed, safe, and interactive experiences that empower users to improve their command-line skills. The tool is ideal for both beginners who want to explore the basics of terminal usage and intermediate users looking to refine their command knowledge.
 
