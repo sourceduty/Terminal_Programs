@@ -4,7 +4,7 @@ A terminal is a text-based interface used for interacting with an operating syst
 
 #
 
-![Terminal](https://github.com/user-attachments/assets/e6979536-70dc-44a8-ab0f-62bd2b28d191)
+![Terminal Dashboard](https://github.com/user-attachments/assets/a9f9b6a2-0d01-4e97-8d7b-7bf340f644a7)
 
 [Terminal Dashboard](https://chatgpt.com/g/g-682a4bf6e7ac8191a6c8e72ba04151eb-terminal-dashboard) was developed to assist users in developing such TUIs, specializing in creating clean, functional code using Python libraries such as rich, urwid, and curses. It helps users design terminal dashboards for diverse purposes by breaking down the requirements into logical steps and generating the necessary code. The GPT can assist with tasks like creating widgets for displaying data, building interactive elements like buttons and input fields, handling dynamic data updates, and ensuring the dashboard's layout is aesthetically pleasing and easy to navigate—all within the constraints and strengths of a text-based terminal environment.
 
